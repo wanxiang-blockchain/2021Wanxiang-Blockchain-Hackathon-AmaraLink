@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+let util = require('../util/util')
+let Node = require('../core/node')
+
+async function init() {
+    try {
+        let node = new Node()
+        await node.initVerifyPeer()
+    } catch (e) {
+        util.log('fatal', e)
+        process.exit(1)
+    }
+}
+
+init()
