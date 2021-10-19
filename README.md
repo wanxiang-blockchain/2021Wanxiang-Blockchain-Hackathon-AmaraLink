@@ -4,4 +4,4 @@
 - At the current stage, we are developing a bridge to connect Moonriver and Polygon/Ethereum. We hope to conduct a demonstration in October to further improve it. 
 It will be officially open to all users after the audit.
 
-Please visit https://bridge.amara.link/#/ to view all data in AmaraLink.
+- Please visit https://bridge.amara.link/#/ to view all data in AmaraLink.
