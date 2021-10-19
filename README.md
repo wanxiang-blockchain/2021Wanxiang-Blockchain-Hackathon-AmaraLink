@@ -12,6 +12,17 @@ The [Amaralink](https://bridge.amara.link/#/) is a cross-chain bridge protocol.T
 - At the current stage, we are developing a bridge to connect Moonriver and Polygon/Ethereum. We hope to conduct a demonstration in October to further improve it. 
 It will be officially open to all users after the audit.
 
+## Design Overview
+
+**Note：** *Take Solana and Moonriver as examples*
+
+### From SOL(SPL Standard) to MOVR(ERC20 Standard)
+
+
+### From MOVR(ERC20 Standard) to SOL(SPL Standard) 
+
+
+
 ## Demo Description
 
 AmaraLink now connects the Moonbase Alpha with the Polygon testnet Mumbai-Testnet, and it will take a few days to apply it to Moonriver Mainnet and Polygon Mainnet.
