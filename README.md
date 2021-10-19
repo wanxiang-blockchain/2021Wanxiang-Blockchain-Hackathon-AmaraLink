@@ -134,9 +134,6 @@ The cross-chain fee of AmaraLink:Take USDT as an example, if the asset needs to 
 ## Useful Links
 - AmaraLink website：https://bridge.amara.link/#/
 - AmaraLink Video（Chinese）：https://youtu.be/zFLzv-X7UBs
-- AmaraLink beta test documentation (English):https://docs.google.com/document/d/1LXdDc6SiPrqNj6hefEXvqQN6rZfKqcHrynBtorHE7xo/edit?usp=sharing
-- AmaraLink beta test documentation (Chinese):https://docs.google.com/document/d/1coHhl6UN8sYkKUVEnuyVii0F8W7bPDIUFBfuF6uBOMc/edit#heading=h.nx2pja8fsy7u
-
 
 ## Follow us
 - Webiste：https://www.amara.link/
